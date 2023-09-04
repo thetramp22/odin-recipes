@@ -37,3 +37,9 @@ Example:
   </ul>
 Your links won’t be flashy, but for now just focus on building them out.
 ------------------------------------------------------------------------------------------------
+
+Things I learned:
+
+1. I spent an embarrassing amount of time trying to figure out why the image wasn't loading while working on the first recipe.  I finally realized that I was using href="..." for the img tag instead of src="...".  A simple mistake, but I'm glad I made it as I don't think I'll be messing that one up again.
+
+2. Read an article on TOP about not overdoing projects or spending too much time on things not essential to the assignment.  Helped resist the urge to work much longer or try to manipulate things in html that I now I will work out with css later.
